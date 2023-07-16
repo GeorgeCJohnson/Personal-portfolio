@@ -1,7 +1,7 @@
 /* Personal image called a hero background image.  Classes utilize rem for improved dynamic sizing */
 .bgimage {
     height:100vh;
-    background-image: url('/assets/images/Herobannerimage.jpg');
+    background-image: url(/assets/images/2023-03-17\ 11.38.55.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     position:relative;
