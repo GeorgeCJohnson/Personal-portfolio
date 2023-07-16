@@ -1,7 +1,7 @@
 /* Personal image called a hero background image */
 .bgimage {
     height:100vh;
-    background: url('C:\Users\gjohn\Documents\bootcamp\Homework\Personal-Portfolio\assets\images\Herobannerimage.jpg');
+    background: url(/assets/images/Herobannerimage.jpg);
     background-size:cover;
     position:relative;
 }
