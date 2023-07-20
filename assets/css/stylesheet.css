@@ -6,7 +6,7 @@
 /* Image of me for background */
 .bgimage {
     height:100vh;
-    background: url('assets/images/heroimage.jpg');
+    background-image: url("./assets/images/heroimage2.jpg");
     background-size:cover;
     position:relative;
 }
